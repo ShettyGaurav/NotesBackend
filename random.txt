@@ -1,0 +1,8 @@
+{
+  "response": {
+    "id": 1,
+    "username": "Gaurav123",
+    "password": "12345"
+  },
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJHYXVyYXYxMjMiLCJwYXNzd29yZCI6IjEyMzQ1IiwiaWF0IjoxNzQ2OTg5MTY1LCJleHAiOjE3NDY5OTI3NjV9.fR_TQkLhZHzdANwWArU1D3s3tCszFPD29IRhD3Zo16o"
+}
